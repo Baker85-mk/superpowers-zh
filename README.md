@@ -16,7 +16,7 @@ Chinese community edition of [superpowers](https://github.com/obra/superpowers),
 
 | 📦 翻译 Skills | 🇨🇳 中国特色 Skills | 🤖 支持工具 |
 |:---:|:---:|:---:|
-| **14** | **5** | **Claude Code / Cursor / Codex / Kiro / DeerFlow / Trae / Antigravity / VS Code / Gemini** |
+| **14** | **5** | **Claude Code / Cursor / Codex / Kiro / DeerFlow / Trae / Antigravity / VS Code / Gemini / OpenClaw** |
 
 ---
 
@@ -80,6 +80,7 @@ cp -r superpowers-zh/skills /your/project/.kiro/steering      # Kiro
 cp -r superpowers-zh/skills /your/project/skills/custom       # DeerFlow 2.0
 cp -r superpowers-zh/skills /your/project/.trae/rules         # Trae
 cp -r superpowers-zh/skills /your/project/.antigravity        # Antigravity
+cp -r superpowers-zh/skills /your/project/skills              # OpenClaw
 ```
 
 ### 方式三：在配置文件中引用
@@ -95,8 +96,9 @@ cp -r superpowers-zh/skills /your/project/.antigravity        # Antigravity
 | Antigravity | `GEMINI.md` 或 `AGENTS.md` | 项目根目录 |
 | VS Code | `.github/copilot-instructions.md` | Copilot 自定义指令 |
 | Cursor | `.cursor/rules/*.md` | 项目级规则目录 |
+| OpenClaw | `skills/*/SKILL.md` | 工作区级 skills 目录，自动发现 |
 
-> **详细安装指南**：[Kiro](docs/README.kiro.md) · [DeerFlow](docs/README.deerflow.md) · [Trae](docs/README.trae.md) · [Antigravity](docs/README.antigravity.md) · [VS Code](docs/README.vscode.md) · [Codex](docs/README.codex.md) · [OpenCode](docs/README.opencode.md)
+> **详细安装指南**：[Kiro](docs/README.kiro.md) · [DeerFlow](docs/README.deerflow.md) · [Trae](docs/README.trae.md) · [Antigravity](docs/README.antigravity.md) · [VS Code](docs/README.vscode.md) · [Codex](docs/README.codex.md) · [OpenCode](docs/README.opencode.md) · [OpenClaw](docs/README.openclaw.md)
 
 ---
 
