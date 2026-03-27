@@ -37,7 +37,7 @@ AI：在开始实现之前，我需要了解几个关键问题：
 [![npm version](https://img.shields.io/npm/v/superpowers-zh)](https://www.npmjs.com/package/superpowers-zh)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
-[![QQ群](https://img.shields.io/badge/QQ群-加入交流-blue?logo=tencentqq)](https://qm.qq.com/q/EeNQA9xCxy)
+[![QQ群](https://img.shields.io/badge/QQ群-1071280067-blue?logo=tencentqq)](https://qm.qq.com/q/EeNQA9xCxy)
 
 ### 📊 项目规模
 
@@ -197,7 +197,7 @@ cp -r superpowers-zh/skills /your/project/.qwen/skills       # Qwen Code
 
 | 群名 | 群号 | 加入方式 |
 |------|------|---------|
-| AI 编程 & Agent 中文实践群 | — | [点击加入](https://qm.qq.com/q/EeNQA9xCxy) |
+| AI 编程 & Agent 中文实践群 | **1071280067** | [点击加入](https://qm.qq.com/q/EeNQA9xCxy) |
 
 ---
 
